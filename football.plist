@@ -33,15 +33,16 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.funnylab.football.qb</string>
+				<string>com.zhuan.appname</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>魔足学院</string>
+				<string>蜜聊</string>
 				<key>title</key>
-				<string>魔足学院</string>
+				<string>蜜聊</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
+
